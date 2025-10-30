@@ -8,7 +8,7 @@ Construida con **React** y conectada al backend de Ohaio hecho con Node.js.
 ## 🚀 Demo
 Vista del panel del sistema:
 
-![Demo del sistema](https://github.com/lucianagsosa41/ohaio-frontend/raw/main/Screenshot%20from%202025-10-30%2014-07-27.png)
+![Demo del sistema](https://github.com/lucianagsosa41/ohaio-frontend/raw/main/ohaio-frontend-photo)
 
 ---
 
